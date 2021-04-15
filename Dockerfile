@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/net-kourier/cmd/kourier
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler
